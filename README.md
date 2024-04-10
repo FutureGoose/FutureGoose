@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://iili.io/HXJBlj9.jpg" alt="Logo" width="200"/>
+<img src="https://iili.io/HXJBlj9.jpg" alt="Logo" width="100"/>
 
 <!--
 **FutureGoose/FutureGoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
