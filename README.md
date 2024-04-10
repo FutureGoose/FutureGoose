@@ -1,4 +1,4 @@
-**This GitHub** is my data science playground. Think of it as a messy workbench overflowing with cool experiments (mostly Jupyter notebooks) I built while learning and expanding my workflow.
+This GitHub is my data science playground. Think of it as a messy workbench overflowing with cool experiments (mostly Jupyter notebooks) I built while learning and expanding my workflow.
 
 Each project follows a clear path: wrangling data, cleaning it up, diving deep to understand the problem (think model prep!), and building production-ready machine learning models – both classification and regression. 
 
