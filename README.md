@@ -8,8 +8,28 @@ This hands-on approach is how I roll. It's all about the journey of exploration 
 
 Feel free to hit me up on LinkedIn to share feedback, knowledge, and thoughts – eager to learn from others!
 
-
 <img src="https://iili.io/HXJBlj9.jpg" alt="Logo" width="75"/>
+
+## Project Breakdown
+
+| Repository                                                                                              | Project Type               | Description            |
+|---------------------------------------------------------------------------------------------------------|----------------------------|------------------------|
+| [Ecommerce Purchase Prediction](https://github.com/FutureGoose/ecommerce_purchase_prediction)           | End-to-End                 | Advanced predictive analytics for e-commerce conversion—featuring EBM, LightGBM models, SMOTE sampling, and a tailored interpret ML dashboard for stakeholder insights.                       |
+| [Analyzing Crime Data](https://github.com/FutureGoose/analyzing_crime_data)                             | End-to-End                 | In this ML Engineering lab, we clean and explore Chicago crime data, culminating in an XGBoost model fine-tuned with Hyperopt and Recursive Feature Elimination, yielding 89% precision.                       |
+| [Logistic Regression: Part 2](https://github.com/FutureGoose/advanced_techniques_logistic_regression)   | Fundamentals (Educational) | Applying logistic regression and random forest to optimize revenue. Thorough data preprocessing, insightful EDA, and comprehensive model evaluation. Builds upon prior knowledge in logistic regression fundamentals.                       |
+| [Logistic Regression: Part 1](https://github.com/FutureGoose/fundamentals_logistic_regression)          | Fundamentals (Educational) | Delve into model mathematics, error analysis, and performance. Focus on statistical fundamentals with statsmodels for understanding and analyzing logistic regression. Linear regression background advised.                       |
+| [Linear Regression: Part 2](https://github.com/FutureGoose/advanced_techniques_linear_regression)       | Fundamentals (Educational) | Exploring Supervised ML, this study of California's housing employs EDA and OLS evaluation. Techniques like Polynomial Transformation, Ridge and Lasso Regularization, and Quantile Regression are used with scikit-learn for in-depth insights.                       |
+| [Linear Regression: Part 1](https://github.com/FutureGoose/fundamentals_ols_linear_regression)          | Fundamentals (Educational) | This project serves as an entry point into machine learning, focusing on building and evaluating basic linear regression models. By applying feature selection and understanding model performance, we offer a foundational approach to predictive modeling, blending algorithms with statistical insights for accuracy and interpretability.                        |
+| [Predicting Insurance Charges](https://github.com/FutureGoose/predicting_insurance_charges)             | End-to-End                 | Using Random Forest and XGBoost for regression to predict health insurance charges based on patient data. Features EDA, preprocessing, and in-depth insights.                       |
+| [Decoding Titanic](https://github.com/FutureGoose/decoding_titanic)                                     | End-to-End                 | Comprehensive Titanic survival prediction using machine learning models like Logistic Regression and ensemble techniques for classification. Includes EDA, feature engineering, and model interpretation insights. Achieved 83.5% accuracy.                       |
+| [Bike Store Analysis](https://github.com/FutureGoose/bike-store-analysis)                               | Business Intelligence      | Analyzing a European bicycle retail business to enhance growth and profitability. Features in-depth EDA, business performance analysis, and strategic insights based on comprehensive sales data.                       |
+
+
+
+
+
+
+
 
 <!--
 **FutureGoose/FutureGoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
