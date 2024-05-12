@@ -26,7 +26,7 @@ Feel free to hit me up on LinkedIn to share feedback, knowledge, and thoughts â€
 
 <br>
 Outside of work, I keep my coding skills sharp by engaging with coding challenges on Codewars:
-
+<br>
 ![Codewars Banner](https://www.codewars.com/users/FutureGoose/badges/large)
 
 
