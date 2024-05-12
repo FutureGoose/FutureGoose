@@ -25,9 +25,10 @@ Feel free to hit me up on LinkedIn to share feedback, knowledge, and thoughts â€
 | [Bike Store Analysis](https://github.com/FutureGoose/bike-store-analysis)                               | Business Intelligence      | Analyzing a European bicycle retail business to enhance growth and profitability. Features in-depth EDA, business performance analysis, and strategic insights based on comprehensive sales data.                       |
 
 <br>
-Outside of work, I keep my coding skills sharp by engaging with coding challenges on [Codewars](https://www.codewars.com/users/FutureGoose).
+Outside of work, I keep my coding skills sharp by engaging with coding challenges on [Codewars](https://www.codewars.com/users/FutureGoose)
 
 ![Codewars Banner](https://www.codewars.com/users/FutureGoose/badges/large)
+
 
 
 
