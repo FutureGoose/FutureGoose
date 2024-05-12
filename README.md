@@ -24,7 +24,8 @@ Feel free to hit me up on LinkedIn to share feedback, knowledge, and thoughts â€
 | [Decoding Titanic](https://github.com/FutureGoose/decoding_titanic)                                     | End-to-End                 | Comprehensive Titanic survival prediction using machine learning models like Logistic Regression and ensemble techniques for classification. Includes EDA, feature engineering, and model interpretation insights. Achieved 83.5% accuracy.                       |
 | [Bike Store Analysis](https://github.com/FutureGoose/bike-store-analysis)                               | Business Intelligence      | Analyzing a European bicycle retail business to enhance growth and profitability. Features in-depth EDA, business performance analysis, and strategic insights based on comprehensive sales data.                       |
 
-
+<br>
+Outside of work, I keep my coding skills sharp by engaging with coding challenges on [Codewars](https://www.codewars.com/users/FutureGoose):
 ![Codewars Banner](https://www.codewars.com/users/FutureGoose/badges/large)
 
 
