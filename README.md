@@ -8,7 +8,7 @@ This hands-on approach is how I roll. It's all about the journey of exploration 
 
 Feel free to hit me up on LinkedIn to share feedback, knowledge, and thoughts – eager to learn from others!
 
-<img src="https://iili.io/HXJBlj9.jpg" alt="Logo" width="75"/>
+<img src="https://iili.io/dSGZ2JR.png" alt="Logo" width="75"/>
 
 ## Project Breakdown
 
@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+non transparent logo https://iili.io/HXJBlj9.jpg
 -->
