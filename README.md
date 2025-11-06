@@ -6,9 +6,9 @@ It's a win-win: solidifies my knowledge and lets others learn from my work.
 
 Feel free to reach out on LinkedIn to share feedback, knowledge, and thoughts – always eager to learn from others!
 
+---
 Outside of work, I keep my coding skills sharp by engaging with coding challenges on [Codewars](https://www.codewars.com/users/FutureGoose):
 
---
 ![Codewars Banner](https://www.codewars.com/users/FutureGoose/badges/large)
 
 ## Project Breakdown
